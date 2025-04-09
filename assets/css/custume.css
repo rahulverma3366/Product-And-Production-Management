@@ -1,0 +1,24 @@
+.flex-wrap {
+    flex-wrap: wrap !important;
+    margin-top: 19px;
+}
+button.btn.btn-secondary.buttons-excel.buttons-html5 {
+    background: #1d6f42;
+}
+button.btn.btn-secondary.buttons-excel.buttons-html5:hover {
+    background: #0f5e33 !important;
+}
+button.btn.btn-secondary.buttons-pdf.buttons-html5 {
+    background: #b43831;
+}
+button.btn.btn-secondary.buttons-pdf.buttons-html5:hover {
+    background: #762823 !important;
+}
+button.btn.btn-secondary.buttons-copy.buttons-html5 {
+    background: #e0e000;
+    color: black;
+}
+button.btn.btn-secondary.buttons-copy.buttons-html5:hover {
+    background: #b3b300  !important;
+    color: black !important;
+}
